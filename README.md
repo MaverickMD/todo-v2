@@ -10,6 +10,9 @@ Task Input
 - Input field
 - Submit button
 
+Submit button role:
+Creates task object
+
 
 Task List
 - Tasks
@@ -30,3 +33,4 @@ What does a Task have?
 What does a Task List have?
 - id
 - taskIds
+
